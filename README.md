@@ -1,3 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00fa9a&height=120&section=header"/>
+
+<h1 align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=600&center=true&size=30&width=435&lines=Oi%2C+você!+%F0%9F%91%8B;Sou+o+Eduardo+Frois...;Fique+a+vontade!;Hello%2C+There!+%F0%9F%91%8B;I'm+Rafael+Matias...;Feel+free+to+look+around" alt="Typing SVG" />
+   </a>
+</h1>
+
 # 🍀 Sobre mim:
 💻| Ciência da Computação 2/8<br>📖| Sempre em busca de conhecimento <br>📧| Contato: matias1rbm@gmail.com<br><br>
 
