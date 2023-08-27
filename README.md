@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 🍀 Sobre mim:
 💻| Ciência da Computação 2/8<br>📖| Sempre em busca de conhecimento <br>📧| Contato: matias1rbm@gmail.com<br><br>
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rafa_rbm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/matiasrbm) 
 
 # 💻 Tech Stack:
