@@ -22,4 +22,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=matiasrbm&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=600&center=true&width=435&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;...+🧊+..." alt="Typing SVG" /></a>
+</p> <br> <br>
+<p align="center">
+
+   
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00fa9a&height=120&section=footer"/>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
