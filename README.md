@@ -6,7 +6,8 @@
 </h1>
 
 # 🍀 About me:
-💻| Estudante de **Ciência da Computação (5/8)**<br>
+💻| **Ciência da Computação (5/8) - UniCEUB**<br>
+🌐| RNP - Rede Nacional de Ensino e Pesquisa / Very Tecnologia
 📖| A man who stands for nothing will fall for anything.<br>
 📧| Contato: **matias1rbm@gmail.com**<br>
 
@@ -15,23 +16,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matiasrbm) 
 
 # 💻 Tech Stack:
+![Networking](https://img.shields.io/badge/Networking-0078D6?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Networking](https://img.shields.io/badge/Networking-0078D6?style=for-the-badge&logo=cisco&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=matiasrbm&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=matiasrbm&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasrbm&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=matiasrbm&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=600&center=true&width=435&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;...+🧊+..." alt="Typing SVG" /></a>
-</p> <br> <br>
-<p align="center">
-
    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00fa9a&height=120&section=footer"/>
