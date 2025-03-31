@@ -6,7 +6,7 @@
 </h1>
 
 # 🍀 About me:
-💻| Ciência da Computação 2/8<br>📖| Sempre em busca de conhecimento <br>📧| Contato: matias1rbm@gmail.com<br><br>
+💻| Ciência da Computação 5/8<br>📖| Sempre em busca de conhecimento <br>📧| Contato: matias1rbm@gmail.com<br><br>
 
 
 ## 🌐 Socials:
