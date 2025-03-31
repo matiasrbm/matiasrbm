@@ -5,7 +5,7 @@
    </a>
 </h1>
 
-# 🍀 About me:
+## 🍀 About me:
 💻| Ciência da Computação - UniCEUB (5/8)<br>
 🌐| RNP - Rede Nacional de Ensino e Pesquisa / Very Tecnologia<br>
 📖| A man who stands for nothing will fall for anything.<br>
@@ -15,7 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rafa_rbm/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matiasrbm) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Networking](https://img.shields.io/badge/Networking-0078D6?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
