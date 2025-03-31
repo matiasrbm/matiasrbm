@@ -6,8 +6,8 @@
 </h1>
 
 # 🍀 About me:
-💻| **Ciência da Computação (5/8) - UniCEUB**<br>
-🌐| RNP - Rede Nacional de Ensino e Pesquisa / Very Tecnologia
+💻| **Ciência da Computação - UniCEUB (5/8)**<br>
+🌐| RNP - Rede Nacional de Ensino e Pesquisa / Very Tecnologia<br>
 📖| A man who stands for nothing will fall for anything.<br>
 📧| Contato: **matias1rbm@gmail.com**<br>
 
