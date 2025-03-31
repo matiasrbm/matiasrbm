@@ -7,7 +7,7 @@
 
 # 🍀 Sobre mim:
 💻| Estudante de **Ciência da Computação (5/8)**<br>
-📖| A man who stands for nothing will fall for anything<br>
+📖| A man who stands for nothing will fall for anything.<br>
 📧| Contato: **matias1rbm@gmail.com**<br>
 
 ## 🌐 Redes Sociais:
