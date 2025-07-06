@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00fa9a&height=120&section=header"/>
 
 ## 🍀 About me
-💻| Ciência da Computação - UniCEUB (5/8)<br>
+💻| Ciência da Computação - UniCEUB (6/8)<br>
 🌐| RNP - Rede Nacional de Ensino e Pesquisa<br>
 📖| A man who stands for nothing will fall for anything.<br>
 📧| Contato: **matias1rbm@gmail.com**<br>
